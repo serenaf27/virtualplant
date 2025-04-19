@@ -1,0 +1,14 @@
+{
+  "name": "virtualplant",
+  "version": "1.0.0",
+  "description": "A web app to take care of a virtul plant pet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Serena F",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^35.2.0"
+  }
+}
